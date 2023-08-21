@@ -57,12 +57,10 @@ comando a ser seguido
 ## <img height="16px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"> Figma
 
 * Figma - veja o arquivo [Figma](https://www.figma.com) para detalhes.
+* *(imagens e link do figma)*
 
 ### Tela de Home
 ![image](https://github.com/GabrielNonnemacher/example-readme/assets/87139289/cf77cb25-f8b2-435e-91c5-b1d65d1af62f)
 
 ### Tela de Funcionalidades
 ![image](https://github.com/GabrielNonnemacher/example-readme/assets/87139289/cf77cb25-f8b2-435e-91c5-b1d65d1af62f)
-
-
-*(imagens e link do figma)*
