@@ -35,7 +35,7 @@ A implementação do Readme no repositório irá fortalecer o portifólio, nele 
 
 ## 📄 Licença
 
-MIT License - veja o arquivo [LICENSE.md](https://github.com/GabrielNonnemacher/example-readme/licenca) para detalhes.
+MIT License - veja o arquivo [LICENSE.md](https://github.com/GabrielNonnemacher/example-readme/blob/master/LICENSE.md) para detalhes.
 
 *(Nome da Licença )* - veja o arquivo [LICENSE.md](https://github.com/(****adicionar_seu_usuario_do_github****)/(****nome_do_projeto****)/licenca) para detalhes.
 
