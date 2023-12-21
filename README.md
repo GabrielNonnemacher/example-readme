@@ -1,12 +1,8 @@
-![image](https://github.com/GabrielNonnemacher/example-readme/assets/87139289/61311d06-221b-4678-9ec8-7b96ef84d743)
+![Calculator](https://github.com/GabrielNonnemacher/example-readme/assets/87139289/39c478d2-fffd-46d3-b558-352ed83f5f59)
 -----
 
 Esse exemplo serve para a padronização dos projetos dos repositórios do autor e também como modelo para a comunidade.
-
-
-site banner: [Link](https://laravelcollective.com/tools/banner)
-
-*(Aqui uma breve descrição do projeto)*
+*(Breve descrição do projeto)*
 
 <br/>
 
