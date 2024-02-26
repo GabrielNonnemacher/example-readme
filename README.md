@@ -16,8 +16,7 @@ A implementação do Readme no repositório irá fortalecer o portifólio, nele 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-* Angular - v16 - [Documentação](https://angular.dev/)
-* HTML5
+* Angular - v17 - [Documentação](https://angular.dev)
 * *(tecnologia e sua versão, linguagem utilizada...)*
   
 <br/>
